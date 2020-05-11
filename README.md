@@ -23,8 +23,8 @@ DB  DB  DB
 Grass (stairs)
 6 dirt block, 1 seeds (grass seeds if there is a mod with "grass seeds")
 DB  X   Seeds   
-DB  DB  X
-DB  DB  DB
+DB  DB  X  
+DB  DB  DB  
 
 Tilled earth (stairs)
 6 dirt blocks, 1 hoe (any hoe, any durability-at least 6+ uses left, does not accept 5 or less durability, uses 6 durability, can break)
